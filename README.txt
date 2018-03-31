@@ -9,6 +9,3 @@ Running the code:
 -> Put them in the same folder, and run the program by typing in 'python neuralTensorNetwork.py' in the command line
 -> You should get a final output saying, 'Accuracy: 0.813', which signifies an accuracy of 81.3%
 -> This code takes about a day to execute on an i5 processor
-
-Code written by: Siddharth Agrawal
-Email ID: siddharth.950@gmail.com
